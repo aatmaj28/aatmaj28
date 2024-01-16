@@ -11,6 +11,7 @@ Aatmaj Here........
 - ⚡ Fun fact: I am a loner with hopes of passing away soon
 
 Here are my profile stats:
+
 [![aatmaj28's GitHub | Languages Over Time](https://stats.quine.sh/aatmaj28/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aatmaj28)
 [![aatmaj28's GitHub | Dependencies](https://stats.quine.sh/aatmaj28/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aatmaj28)
 [![aatmaj28's GitHub | Stats](https://stats.quine.sh/aatmaj28/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aatmaj28)
