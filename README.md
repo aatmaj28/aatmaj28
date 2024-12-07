@@ -7,7 +7,7 @@ Aatmaj Here........
 - 👯 I’m looking to collaborate on futuristic and heavy-impact projects
 - 🤔 I’m looking for help with DSA 
 - 💬 Ask me about my life and coding journey
-- 📫 How to reach me: email me @ aatmajsalunke@gmail.com
+- 📫 How to reach me: email me @ aatmajsalunke@yahoo.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a loner with hopes of passing away soon
 
