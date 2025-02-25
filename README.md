@@ -1,11 +1,11 @@
 Hi there 👋
 Aatmaj Here........
 
-
-- 🔭 I’m currently working on Space Science Analysis and Computer Interaction
-- 🌱 I’m currently learning Machine Learning, specifically Image Processing
+- 📚 I'm currently pursuing a Master's Degree at Northeastern University, Boston, MA
+- 🔭 I have worked on Space Science Analysis and Computer Interaction at the Indian Space Research Organisation (ISRO)
+- 🌱 I have an interest in Machine Learning and Deep Learning and am diving deeper into these fields
 - 👯 I’m looking to collaborate on futuristic and heavy-impact projects
-- 🤔 I’m looking for help with DSA 
+- 🤔 On my way to solving complex algorithms efficiently
 - 💬 Ask me about my life and coding journey
 - 📫 How to reach me: email me @ aatmajsalunke@yahoo.com
 - 😄 Pronouns: he/him
