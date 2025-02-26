@@ -1,7 +1,7 @@
 Hi there 👋
 Aatmaj Here........
 
-- 📚 I'm currently pursuing a Master's Degree at Northeastern University, Boston, MA
+- 📚 I'm currently pursuing a Master's Degree in Artificial Intelligence at Northeastern University, Boston, MA
 - 🔭 I have worked on Space Science Analysis and Computer Interaction at the Indian Space Research Organisation (ISRO)
 - 🌱 I have an interest in Machine Learning and Deep Learning and am diving deeper into these fields
 - 👯 I’m looking to collaborate on futuristic and heavy-impact projects
