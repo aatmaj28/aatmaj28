@@ -100,6 +100,7 @@ me.say_hi()
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aatmaj-salunke-7106041b0/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://aatmaj28.github.io/Portfolio/)
+[![Photography](https://img.shields.io/badge/Photography-8A2BE2?style=for-the-badge&logo=canon&logoColor=white)](https://aatmaj28.github.io/PhotographyWebsite/)
 [![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Aatmaj-Salunke-1)
 [![Devfolio](https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge&logo=devfolio&logoColor=white)](https://devfolio.co/@aatmaj28)
 
