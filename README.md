@@ -1,7 +1,17 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hi there, I'm Aatmaj Salunke
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Machine+Learning+Engineer;MS+in+AI+%40+Northeastern+University;Building+Intelligent+Systems;Open+to+Summer+2026+Opportunities)](https://git.io/typing-svg)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aatmajsalunke@yahoo.com)
-[![GitHub followers](https://img.shields.io/github/followers/aatmaj28?label=Follow&style=social)](https://github.com/aatmaj28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aatmaj-salunke-7106041b0/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://aatmaj28.github.io/Portfolio/)
+[![GitHub followers](https://img.shields.io/github/followers/aatmaj28?label=Follow&style=for-the-badge&logo=github)](https://github.com/aatmaj28)
+
+</div>
+
+---
 
 ## 🚀 About Me
 
@@ -13,10 +23,17 @@ class AatmajSalunke:
             "Masters": "Artificial Intelligence @ Northeastern University",
             "Bachelors": "Computer Science & Engineering @ Manipal University Jaipur"
         }
-        self.experience = ["ISRO Scientific Researcher", "WictroniX ML Intern", "IBM AI Mentee"]
-        self.interests = ["Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Reinforcement Learning"]
+        self.experience = [
+            "CMU Research Assistant",
+            "AI Quant Finance Engineer @ Borealis Global Analytics",
+            "Graduate RA @ DMSB AI Strategic Hub",
+            "ISRO Scientific Researcher",
+            "Adobe Campus Ambassador"
+        ]
+        self.interests = ["Machine Learning", "Deep Learning", "NLP", 
+                         "Computer Vision", "Reinforcement Learning", "Autonomous Agents"]
         self.currently_learning = "Advanced AI Techniques for Real-world Applications"
-        self.looking_for = "Internship Opportunities (May 2025 - Dec 2025)"
+        self.looking_for = "Internship Opportunities (May 2026 - Aug 2026)"
         self.pronouns = "he/him"
     
     def say_hi(self):
@@ -26,77 +43,250 @@ me = AatmajSalunke()
 me.say_hi()
 ```
 
+<details>
+<summary>📊 Click to see my GitHub Stats</summary>
+<br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aatmaj28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatmaj28&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatmaj28&theme=tokyonight" alt="aatmaj28" />
+</div>
+</details>
+
+---
+
 ## 🧠 Current Focus
 
-- 📚 Pursuing MS in Artificial Intelligence at Northeastern University
-- 🔬 Exploring advanced concepts in Reinforcement Learning and NLP
-- 🌟 Building AI solutions that solve real-world problems
-- 🤝 Open to collaborate on futuristic, high-impact projects
+<table>
+<tr>
+<td width="50%">
+
+- 📚 Pursuing **MS in Artificial Intelligence** at Northeastern University
+- 🔬 Exploring advanced concepts in **Reinforcement Learning** and **NLP**
+- 🌟 Building **AI solutions** that solve real-world problems
+- 🤝 Open to collaborate on **futuristic, high-impact projects**
+
+</td>
+<td width="50%">
+
+```text
+AI Research      ████████████████░░░░   80%
+RAG Systems      ███████████████░░░░░   75%
+Autonomous AI    ██████████████░░░░░░   70%
+Computer Vision  █████████████░░░░░░░   65%
+Quant Finance    ████████████░░░░░░░░   60%
+```
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 💼 Experience Highlights
 
-- 🛰️ **Scientific Research Intern, ISRO** - Worked in SIPG Department at SAC, enhancing satellite-based weather prediction algorithms through advanced signal and image processing.
+<details open>
+<summary><b>🔬 Research Assistant, Carnegie Mellon University</b></summary>
+<br>
 
-- 🌿 **Research Intern, NIT Trichy** - Specialized in Machine Learning applications for the Plants and Botany sector, contributing to three research projects on plant tagging and document recommendation systems.
+> **CryoSAM Implementation for Cryo-Electron Tomography Analysis**
+> - Developed a Python implementation of CryoSAM, integrating Meta's **Segment Anything Model (SAM)** with **DINO self-supervised learning** to enable automated 3D particle segmentation in cryo-electron tomography datasets
+> - Achieved **95%+ confidence scores** on real HIV particle detection
+> - Built comprehensive data processing pipelines handling MRC/tomogram files, implemented 3D propagation algorithms for volumetric segmentation
+> - Created visualization tools for analyzing protein structures at nanometer resolution in noisy CryoET data
 
-- 🚦 **Machine Learning Engineer Intern, WictroniX** - Contributed to a Government of Gujarat project on traffic and vehicle analysis for improved transportation systems.
+</details>
 
-- 📊 **Data Science Intern, Celebal Technologies** - Gained hands-on experience in data analysis, modeling, and visualization for real-world projects.
+<details open>
+<summary><b>📈 AI Quant Finance Engineer Intern, Borealis Global Analytics</b></summary>
+<br>
 
-- 🧠 **Artificial Intelligence Mentee, IBM** - Collaborated with experienced AI professionals to contribute to cutting-edge AI projects.
+> - Engineered scalable analytics and AI solutions with **retrieval-augmented generation (RAG)** to analyze large volumes of user and financial data
+> - Significantly improved user engagement, decision-making accuracy, and proprietary financial knowledge discoverability
+> - Contributed formal technical documentation and research publications
+> - Led development of a scalable **AI-based forecasting system** using coordinated autonomous components and global sentiment data
+> - Generated country-level investment insights, achieving **multi-fold performance improvements** through optimized execution
 
-- ☁️ **Salesforce Developer Trainee, Salesforce** - Learned Salesforce fundamentals and developed applications during intensive training program.
+</details>
+
+<details open>
+<summary><b>🎓 Graduate Research Assistant, DMSB AI Strategic Hub (DASH)</b></summary>
+<br>
+
+> - Applied AI & Autonomous Systems Engineer at the **D'Amore-McKim School of Business** at Northeastern University
+> - Developing cutting-edge AI solutions for business applications
+
+</details>
+
+<details>
+<summary><b>🛰️ Scientific Research Intern, ISRO</b></summary>
+<br>
+
+> - Worked in SIPG Department at SAC, enhancing satellite-based weather prediction algorithms
+> - Advanced signal and image processing techniques for earth observation
+
+</details>
+
+<details>
+<summary><b>🎨 Campus Ambassador, Adobe @ Northeastern University</b></summary>
+<br>
+
+> - Leading efforts across campus to raise awareness of Adobe's creative tools by organizing hands-on workshops, peer-learning sessions, and pop-ups
+> - Collaborating with student groups, academic departments, and creative clubs to integrate Adobe's tools into campus life
+> - Building a community focused on creativity, innovation, and peer support
+
+</details>
+
+<details>
+<summary><b>🌿 Research Intern, NIT Trichy</b></summary>
+<br>
+
+> - Specialized in Machine Learning applications for the Plants and Botany sector
+> - Contributed to three research projects on plant tagging and document recommendation systems
+
+</details>
+
+<details>
+<summary><b>🚦 ML Engineer Intern, WictroniX</b></summary>
+<br>
+
+> - Contributed to a Government of Gujarat project on traffic and vehicle analysis
+> - Improved transportation systems through computer vision and ML
+
+</details>
+
+<details>
+<summary><b>📊 Data Science Intern, Celebal Technologies</b></summary>
+<br>
+
+> - Gained hands-on experience in data analysis, modeling, and visualization for real-world projects
+
+</details>
+
+---
 
 ## 🛠️ Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/-scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LangChain-3178C6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### AI/ML & Deep Learning
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-3178C6?style=for-the-badge&logoColor=white)
+
+### Data Science
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+### Web Development
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-00ADD8?style=for-the-badge&logoColor=white)
+
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 </div>
 
-## 🏆 Projects
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
 
 ### 🤖 AI-Powered Financial Document Q&A Chatbot
-- RAG-based financial insights system leveraging FinBERT, FAISS & LangChain
-- 85% higher retrieval accuracy & 37% faster query response time
+[![GitHub](https://img.shields.io/badge/-View_Project-181717?style=flat-square&logo=github)](https://github.com/aatmaj28)
 
-### 🏠 Airbnb Property Search Bot
-- NLP-powered search with hybrid retrieval (dense embeddings + BM25)
-- 40% improvement in search relevance using Google's Gemini model
+RAG-based financial insights system leveraging **FinBERT**, **FAISS** & **LangChain**
+
+📊 **85%** higher retrieval accuracy  
+⚡ **37%** faster query response time
+
+</td>
+<td width="50%">
 
 ### 🛒 SmartCart
-- AI-driven grocery shopping platform built during Innovate 2025 Hackathon
-- Reduced manual shopping effort by 50-60% with LLM-powered features
+[![GitHub](https://img.shields.io/badge/-View_Project-181717?style=flat-square&logo=github)](https://github.com/aatmaj28)
+
+AI-driven grocery shopping platform built during **Innovate 2025 Hackathon**
+
+🎯 Reduced manual shopping effort by **50-60%**  
+🤖 LLM-powered smart features
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧬 CryoSAM Implementation
+[![GitHub](https://img.shields.io/badge/-View_Project-181717?style=flat-square&logo=github)](https://github.com/aatmaj28)
+
+3D particle segmentation for cryo-electron tomography using **SAM + DINO**
+
+✅ **95%+** confidence on HIV particle detection  
+🔬 Nanometer resolution analysis
+
+</td>
+<td width="50%">
+
+### 📈 Multi-Agent Forecasting System
+[![GitHub](https://img.shields.io/badge/-View_Project-181717?style=flat-square&logo=github)](https://github.com/aatmaj28)
+
+Coordinated autonomous agents for **country-level investment insights**
+
+🌍 Global sentiment analysis  
+📊 Multi-fold performance improvements
+
+</td>
+</tr>
+</table>
+</div>
+
+---
 
 ## 📝 Publications
 
-- [Enhancing Contextual Understanding in NLP: A Subword Tokenization Approach with ELMo and BERT](https://github.com/aatmaj28)
-- [OTPLM: An Ontology-Driven Approach for Tagging Plants using Hybrid Semantics and Strategic Learning Models](https://github.com/aatmaj28)
-- [DRHA: Document Recommendation for Horticulture and Agro-Based Farming](https://github.com/aatmaj28)
+<div align="center">
+
+| Publication | Topic |
+|:------------|:------|
+| 📄 [Enhancing Contextual Understanding in NLP](https://github.com/aatmaj28) | Subword Tokenization with ELMo and BERT |
+| 📄 [OTPLM: Ontology-Driven Plant Tagging](https://github.com/aatmaj28) | Hybrid Semantics and Strategic Learning |
+| 📄 [DRHA: Document Recommendation](https://github.com/aatmaj28) | Horticulture and Agro-Based Farming |
+
+</div>
+
+---
 
 ## 🌐 Connect With Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aatmaj-salunke-7106041b0/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://aatmaj28.github.io/Portfolio/)
@@ -104,11 +294,28 @@ me.say_hi()
 [![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Aatmaj-Salunke-1)
 [![Devfolio](https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge&logo=devfolio&logoColor=white)](https://devfolio.co/@aatmaj28)
 
-## ⚡ Fun Fact
-When I'm not coding or exploring AI algorithms, you can find me trying to solve complex algorithms by hand – just for fun!
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aatmaj28&label=Profile%20views&color=0e75b6&style=flat" alt="aatmaj28" />
-</p>
+## ⚡ Fun Fact
+
+> *When I'm not coding or exploring AI algorithms, you can find me trying to solve complex algorithms by hand – just for fun!* 🧩
+
+---
+
+<div align="center">
+
+### 💡 *"The best way to predict the future is to create it."*
+
+<br>
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=aatmaj28&label=Profile%20views&color=6366F1&style=for-the-badge" alt="aatmaj28" />
+
+**If you find my work interesting, consider giving a ⭐!**
+
+</div>
