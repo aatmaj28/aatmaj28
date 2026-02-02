@@ -26,7 +26,7 @@ class AatmajSalunke:
         self.experience = [
             "CMU Research Assistant",
             "AI Quant Finance Engineer @ Borealis Global Analytics",
-            "Graduate RA @ DMSB AI Strategic Hub",
+            "Graduate RA @ DMSB AI Strategic Hub (NEU)",
             "ISRO Scientific Researcher",
             "Adobe Campus Ambassador"
         ]
@@ -42,20 +42,6 @@ class AatmajSalunke:
 me = AatmajSalunke()
 me.say_hi()
 ```
-
-<details>
-<summary>📊 Click to see my GitHub Stats</summary>
-<br>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aatmaj28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatmaj28&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatmaj28&theme=tokyonight" alt="aatmaj28" />
-</div>
-</details>
-
----
 
 ## 🧠 Current Focus
 
@@ -221,7 +207,7 @@ Quant Finance    ████████████░░░░░░░░   
 <td width="50%">
 
 ### 🤖 AI-Powered Financial Document Q&A Chatbot
-[![GitHub](https://img.shields.io/badge/-View_Project-181717?style=flat-square&logo=github)](https://github.com/aatmaj28)
+[![GitHub](https://img.shields.io/badge/-View_Project-181717?style=flat-square&logo=github)](https://github.com/aatmaj28/FinRAG)
 
 RAG-based financial insights system leveraging **FinBERT**, **FAISS** & **LangChain**
 
@@ -232,7 +218,7 @@ RAG-based financial insights system leveraging **FinBERT**, **FAISS** & **LangCh
 <td width="50%">
 
 ### 🛒 SmartCart
-[![GitHub](https://img.shields.io/badge/-View_Project-181717?style=flat-square&logo=github)](https://github.com/aatmaj28)
+[![GitHub](https://img.shields.io/badge/-View_Project-181717?style=flat-square&logo=github)](https://github.com/aatmaj28/Innovaite-2025)
 
 AI-driven grocery shopping platform built during **Innovate 2025 Hackathon**
 
@@ -245,7 +231,6 @@ AI-driven grocery shopping platform built during **Innovate 2025 Hackathon**
 <td width="50%">
 
 ### 🧬 CryoSAM Implementation
-[![GitHub](https://img.shields.io/badge/-View_Project-181717?style=flat-square&logo=github)](https://github.com/aatmaj28)
 
 3D particle segmentation for cryo-electron tomography using **SAM + DINO**
 
@@ -256,7 +241,7 @@ AI-driven grocery shopping platform built during **Innovate 2025 Hackathon**
 <td width="50%">
 
 ### 📈 Multi-Agent Forecasting System
-[![GitHub](https://img.shields.io/badge/-View_Project-181717?style=flat-square&logo=github)](https://github.com/aatmaj28)
+[![GitHub](https://img.shields.io/badge/-View_Project-181717?style=flat-square&logo=github)](https://github.com/aatmaj28/AI_Agents)
 
 Coordinated autonomous agents for **country-level investment insights**
 
@@ -276,9 +261,9 @@ Coordinated autonomous agents for **country-level investment insights**
 
 | Publication | Topic |
 |:------------|:------|
-| 📄 [Enhancing Contextual Understanding in NLP](https://github.com/aatmaj28) | Subword Tokenization with ELMo and BERT |
-| 📄 [OTPLM: Ontology-Driven Plant Tagging](https://github.com/aatmaj28) | Hybrid Semantics and Strategic Learning |
-| 📄 [DRHA: Document Recommendation](https://github.com/aatmaj28) | Horticulture and Agro-Based Farming |
+| 📄 [Deep Learning-Based Satellite Image Analysis](https://eartharxiv.org/repository/view/8131/) | Predicting Land Surface Temperature and Emissivity |
+| 📄 [OTPLM: Ontology-Driven Plant Tagging](https://doi.org/10.13140/RG.2.2.29854.72009) | Hybrid Semantics and Strategic Learning |
+| 📄 [Enhancing Urban Traffic Management](https://www.irjmets.com/uploadedfiles/paper/issue_8_august_2023/44052/final/fin_irjmets1692264925.pdf) | Predictive Modelling and Drone-Captured Image Analysis |
 
 </div>
 
