@@ -300,7 +300,7 @@ Coordinated autonomous agents for **country-level investment insights**
 
 ## ⚡ Fun Fact
 
-> *When I'm not coding or exploring AI algorithms, you can find me trying to solve complex algorithms by hand – just for fun!* 🧩
+> *When I'm not coding or exploring AI algorithms, you can find me capturing moments through my 📸 camera, hitting the trails as a 🏃 trail runner, or planning my next adventure as a fanatic traveler 🌍 – always chasing new experiences!* 🧩
 
 ---
 
